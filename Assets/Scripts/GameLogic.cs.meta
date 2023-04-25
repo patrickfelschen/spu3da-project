@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6a913b71a17a5f4bb1e4c6f8061ed49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 3634872806795845524, guid: 4408579a2f8907b46af14fad2d85dcc6, type: 3}
+  - boss: {instanceID: 0}
+  - levelCompleteScreen: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
